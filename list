@@ -66,4 +66,4 @@ youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-r
 youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.ytd-rich-grid-row):style(display: contents !important)
 
 !Hide tegs content home
-youtube.com###header > .ytd-rich-grid-renderer.style-scope
+!youtube.com###header > .ytd-rich-grid-renderer.style-scope
