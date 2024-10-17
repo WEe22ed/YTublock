@@ -89,7 +89,7 @@ youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 !/endscreen.js$script,important,domain=youtube.com
 youtube.com##.ytp-ce-element
 
-youtube.com#ytd-rich-section-renderer
+youtube.com##ytd-rich-section-renderer
 
 ! block all playlists being reccomended underneath a video (tag me if you want one just for youtube music)
 www.youtube.com##ytd-compact-playlist-renderer:has(ytd-thumbnail-overlay-side-panel-renderer)
