@@ -86,7 +86,7 @@ youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
 
 ! Video annotations
 /annotations_module.js$script,important,domain=youtube.com
-/endscreen.js$script,important,domain=youtube.com
+!/endscreen.js$script,important,domain=youtube.com
 youtube.com##.ytp-ce-element
 
 ! block all playlists being reccomended underneath a video (tag me if you want one just for youtube music)
