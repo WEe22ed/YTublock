@@ -67,7 +67,7 @@ youtube.com##ytd-browse[page-subtype="home"] :is(ytd-rich-grid-row, #contents.yt
 
 ! Hide tegs content home
 ! youtube.com###header > .ytd-rich-grid-renderer.style-scope
-youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+! youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
 
 ! Hide sponsor 
 youtube.com##.undefined > yt-button-shape
